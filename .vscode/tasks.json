@@ -1,0 +1,26 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "gradle",
+			"id": "/Users/ryanlee/offseason2023v2testoffseason2023v2",
+			"script": "test",
+			"description": "Runs the test suite.",
+			"group": {
+				"kind": "test",
+				"isDefault": true
+			},
+			"project": "offseason2023v2",
+			"buildFile": "/Users/ryanlee/offseason2023v2/build.gradle",
+			"rootProject": "offseason2023v2",
+			"projectFolder": "/Users/ryanlee/offseason2023v2",
+			"workspaceFolder": "/Users/ryanlee/offseason2023v2",
+			"args": "",
+			"javaDebug": false,
+			"problemMatcher": [
+				"$gradle"
+			],
+			"label": "gradle: test"
+		}
+	]
+}
